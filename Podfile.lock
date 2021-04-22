@@ -1,0 +1,16 @@
+PODS:
+  - ProgressHUD (2.70)
+
+DEPENDENCIES:
+  - ProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
+
+PODFILE CHECKSUM: 9fa852a12badda67b5eb0e3dfd57f1d8fcc685ec
+
+COCOAPODS: 1.10.1
